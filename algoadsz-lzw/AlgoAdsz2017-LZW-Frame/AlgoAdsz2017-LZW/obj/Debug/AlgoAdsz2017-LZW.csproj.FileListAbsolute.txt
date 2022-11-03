@@ -1,0 +1,28 @@
+c:\users\kevlar\documents\visual studio 2015\Projects\AlgoAdsz2017-LZW\AlgoAdsz2017-LZW\bin\Debug\AlgoAdsz2017-LZW.exe.config
+c:\users\kevlar\documents\visual studio 2015\Projects\AlgoAdsz2017-LZW\AlgoAdsz2017-LZW\obj\Debug\AlgoAdsz2017-LZW.csprojResolveAssemblyReference.cache
+c:\users\kevlar\documents\visual studio 2015\Projects\AlgoAdsz2017-LZW\AlgoAdsz2017-LZW\obj\Debug\AlgoAdsz2017_LZW.Form1.resources
+c:\users\kevlar\documents\visual studio 2015\Projects\AlgoAdsz2017-LZW\AlgoAdsz2017-LZW\obj\Debug\AlgoAdsz2017_LZW.Properties.Resources.resources
+c:\users\kevlar\documents\visual studio 2015\Projects\AlgoAdsz2017-LZW\AlgoAdsz2017-LZW\obj\Debug\AlgoAdsz2017-LZW.csproj.GenerateResource.Cache
+c:\users\kevlar\documents\visual studio 2015\Projects\AlgoAdsz2017-LZW\AlgoAdsz2017-LZW\bin\Debug\AlgoAdsz2017-LZW.exe
+c:\users\kevlar\documents\visual studio 2015\Projects\AlgoAdsz2017-LZW\AlgoAdsz2017-LZW\bin\Debug\AlgoAdsz2017-LZW.pdb
+c:\users\kevlar\documents\visual studio 2015\Projects\AlgoAdsz2017-LZW\AlgoAdsz2017-LZW\obj\Debug\AlgoAdsz2017-LZW.exe
+c:\users\kevlar\documents\visual studio 2015\Projects\AlgoAdsz2017-LZW\AlgoAdsz2017-LZW\obj\Debug\AlgoAdsz2017-LZW.pdb
+d:\__pendrive\algoadsz-2017\AlgoAdsz2017-LZW-Frame\AlgoAdsz2017-LZW\bin\Debug\AlgoAdsz2017-LZW.exe.config
+d:\__pendrive\algoadsz-2017\AlgoAdsz2017-LZW-Frame\AlgoAdsz2017-LZW\bin\Debug\AlgoAdsz2017-LZW.exe
+d:\__pendrive\algoadsz-2017\AlgoAdsz2017-LZW-Frame\AlgoAdsz2017-LZW\bin\Debug\AlgoAdsz2017-LZW.pdb
+d:\__pendrive\algoadsz-2017\AlgoAdsz2017-LZW-Frame\AlgoAdsz2017-LZW\obj\Debug\AlgoAdsz2017-LZW.csprojAssemblyReference.cache
+d:\__pendrive\algoadsz-2017\AlgoAdsz2017-LZW-Frame\AlgoAdsz2017-LZW\obj\Debug\AlgoAdsz2017_LZW.Form1.resources
+d:\__pendrive\algoadsz-2017\AlgoAdsz2017-LZW-Frame\AlgoAdsz2017-LZW\obj\Debug\AlgoAdsz2017_LZW.Properties.Resources.resources
+d:\__pendrive\algoadsz-2017\AlgoAdsz2017-LZW-Frame\AlgoAdsz2017-LZW\obj\Debug\AlgoAdsz2017-LZW.csproj.GenerateResource.cache
+d:\__pendrive\algoadsz-2017\AlgoAdsz2017-LZW-Frame\AlgoAdsz2017-LZW\obj\Debug\AlgoAdsz2017-LZW.csproj.CoreCompileInputs.cache
+d:\__pendrive\algoadsz-2017\AlgoAdsz2017-LZW-Frame\AlgoAdsz2017-LZW\obj\Debug\AlgoAdsz2017-LZW.exe
+d:\__pendrive\algoadsz-2017\AlgoAdsz2017-LZW-Frame\AlgoAdsz2017-LZW\obj\Debug\AlgoAdsz2017-LZW.pdb
+C:\Users\kutas\Downloads\algoadsz-lzw\AlgoAdsz2017-LZW-Frame\AlgoAdsz2017-LZW\bin\Debug\AlgoAdsz2017-LZW.exe.config
+C:\Users\kutas\Downloads\algoadsz-lzw\AlgoAdsz2017-LZW-Frame\AlgoAdsz2017-LZW\bin\Debug\AlgoAdsz2017-LZW.exe
+C:\Users\kutas\Downloads\algoadsz-lzw\AlgoAdsz2017-LZW-Frame\AlgoAdsz2017-LZW\bin\Debug\AlgoAdsz2017-LZW.pdb
+C:\Users\kutas\Downloads\algoadsz-lzw\AlgoAdsz2017-LZW-Frame\AlgoAdsz2017-LZW\obj\Debug\AlgoAdsz2017-LZW.csprojAssemblyReference.cache
+C:\Users\kutas\Downloads\algoadsz-lzw\AlgoAdsz2017-LZW-Frame\AlgoAdsz2017-LZW\obj\Debug\AlgoAdsz2017_LZW.Form1.resources
+C:\Users\kutas\Downloads\algoadsz-lzw\AlgoAdsz2017-LZW-Frame\AlgoAdsz2017-LZW\obj\Debug\AlgoAdsz2017_LZW.Properties.Resources.resources
+C:\Users\kutas\Downloads\algoadsz-lzw\AlgoAdsz2017-LZW-Frame\AlgoAdsz2017-LZW\obj\Debug\AlgoAdsz2017-LZW.csproj.GenerateResource.cache
+C:\Users\kutas\Downloads\algoadsz-lzw\AlgoAdsz2017-LZW-Frame\AlgoAdsz2017-LZW\obj\Debug\AlgoAdsz2017-LZW.exe
+C:\Users\kutas\Downloads\algoadsz-lzw\AlgoAdsz2017-LZW-Frame\AlgoAdsz2017-LZW\obj\Debug\AlgoAdsz2017-LZW.pdb

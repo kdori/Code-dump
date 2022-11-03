@@ -1,0 +1,18 @@
+c:\users\kevlar\documents\visual studio 2015\Projects\algoadsz-heap\algoadsz-heap\bin\Debug\algoadsz-heap.exe.config
+c:\users\kevlar\documents\visual studio 2015\Projects\algoadsz-heap\algoadsz-heap\bin\Debug\algoadsz-heap.exe
+c:\users\kevlar\documents\visual studio 2015\Projects\algoadsz-heap\algoadsz-heap\bin\Debug\algoadsz-heap.pdb
+c:\users\kevlar\documents\visual studio 2015\Projects\algoadsz-heap\algoadsz-heap\obj\Debug\algoadsz-heap.csprojResolveAssemblyReference.cache
+c:\users\kevlar\documents\visual studio 2015\Projects\algoadsz-heap\algoadsz-heap\obj\Debug\algoadsz_heap.Form1.resources
+c:\users\kevlar\documents\visual studio 2015\Projects\algoadsz-heap\algoadsz-heap\obj\Debug\algoadsz_heap.Properties.Resources.resources
+c:\users\kevlar\documents\visual studio 2015\Projects\algoadsz-heap\algoadsz-heap\obj\Debug\algoadsz-heap.csproj.GenerateResource.Cache
+c:\users\kevlar\documents\visual studio 2015\Projects\algoadsz-heap\algoadsz-heap\obj\Debug\algoadsz-heap.exe
+c:\users\kevlar\documents\visual studio 2015\Projects\algoadsz-heap\algoadsz-heap\obj\Debug\algoadsz-heap.pdb
+C:\Users\kutas\Downloads\algoadsz-heap\algoadsz-heap\algoadsz-heap\bin\Debug\algoadsz-heap.exe.config
+C:\Users\kutas\Downloads\algoadsz-heap\algoadsz-heap\algoadsz-heap\bin\Debug\algoadsz-heap.exe
+C:\Users\kutas\Downloads\algoadsz-heap\algoadsz-heap\algoadsz-heap\bin\Debug\algoadsz-heap.pdb
+C:\Users\kutas\Downloads\algoadsz-heap\algoadsz-heap\algoadsz-heap\obj\Debug\algoadsz-heap.csprojAssemblyReference.cache
+C:\Users\kutas\Downloads\algoadsz-heap\algoadsz-heap\algoadsz-heap\obj\Debug\algoadsz_heap.Form1.resources
+C:\Users\kutas\Downloads\algoadsz-heap\algoadsz-heap\algoadsz-heap\obj\Debug\algoadsz_heap.Properties.Resources.resources
+C:\Users\kutas\Downloads\algoadsz-heap\algoadsz-heap\algoadsz-heap\obj\Debug\algoadsz-heap.csproj.GenerateResource.cache
+C:\Users\kutas\Downloads\algoadsz-heap\algoadsz-heap\algoadsz-heap\obj\Debug\algoadsz-heap.exe
+C:\Users\kutas\Downloads\algoadsz-heap\algoadsz-heap\algoadsz-heap\obj\Debug\algoadsz-heap.pdb

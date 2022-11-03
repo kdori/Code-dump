@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mozi>
+ <film>
+    <cim>Ne játsz a tűzzel</cim>
+    <hossz>96</hossz>
+    <korhatar>12</korhatar>
+    <premier>2020.01.30</premier>
+    <ido>
+      <ora>17:15</ora>
+        <knap>2020.01.30.</knap>
+        <znap>2020.02.05.</znap>
+        <tipus>2D</tipus>
+        <terem>Bud Spencer</terem> 
+    </ido>
+       <ido>
+         <ora>17:00</ora>
+        <knap>2020.02.06.</knap>
+        <znap>2020.02.12.</znap>
+        <tipus>2D</tipus>
+        <terem>Terence Hill</terem> 
+    </ido>
+  </film>
+ <film>
+    <cim>1917</cim>
+    <hossz>119</hossz>
+    <korhatar>16</korhatar>
+    <premier>2020.01.30</premier>
+    <ido>
+      <ora>19:15</ora>
+      <knap>2020.01.30.</knap>
+      <znap>2020.02.05.</znap>
+      <tipus>2D</tipus>
+      <terem>Bud Spencer</terem>
+    </ido>
+    <ido>
+      <ora>19:15</ora>
+      <knap>2020.01.30.</knap>
+      <znap>2020.02.05.</znap>
+      <tipus>2D</tipus>
+      <terem>Terence Hill</terem>
+    </ido>
+  </film>
+ <film>
+    <cim>Jojo Nyuszi</cim>
+    <hossz>108</hossz>
+    <korhatar>12</korhatar>
+   <premier>2020.01.23</premier>
+    <ido>
+      <ora>15:15</ora>
+        <knap>2020.01.30.</knap>
+        <znap>2020.02.05.</znap>
+        <tipus>2D</tipus>
+        <terem>Bud Spencer</terem>
+    </ido>
+  </film>
+ <film>
+    <cim>Richard Jewell balladája</cim>
+    <hossz>131</hossz>
+    <korhatar>12</korhatar>
+   <premier>2020.01.23</premier>
+    <ido>
+      <ora>20:00</ora>
+      <knap>2020.01.30.</knap>
+      <znap>2020.02.05.</znap>
+      <tipus>2D</tipus>
+      <terem>Terence Hill</terem>
+    </ido>
+  </film>
+ <film>
+    <cim>Úriemberek</cim>
+    <hossz>113</hossz>
+    <korhatar>18</korhatar>
+    <premier>2020.01.30</premier>
+    <ido>
+      <ora>21:30</ora>
+      <tipus>2D</tipus>
+      <terem>Bud Spencer</terem>
+      <knap>2020.01.30.</knap>
+      <znap>2020.02.05.</znap>
+    </ido>
+  </film>
+ <film>
+    <cim>Mancs őrjárat: Vigyázz, kész, mancs!</cim>
+    <hossz>66</hossz>
+    <korhatar>0</korhatar>
+    <premier>2020.01.30</premier>
+    <ido>
+      <ora>14:00</ora>
+        <tipus>2D</tipus>
+        <terem>Bud Spencer</terem>
+        <knap>2020.01.30.</knap>
+        <znap>2020.02.05.</znap>
+    </ido>
+    <ido>
+      <ora>13:30</ora>
+      <tipus>3D</tipus>
+      <terem>Terence Hill</terem>
+        <knap>2020.02.06.</knap>
+        <znap>2020.02.12.</znap>
+    </ido>
+    <ido>
+      <ora>10:00</ora>
+      <tipus>2D</tipus>
+      <terem>Bud Spencer</terem>
+        <knap>2020.02.01.</knap>
+        <znap>2020.02.02.</znap>
+    </ido>
+    <ido>
+      <ora>10:30</ora>
+        <tipus>3D</tipus>
+        <terem>Terence Hill</terem>
+          <knap>2020.02.01.</knap>
+          <znap>2020.02.02.</znap>
+   </ido>
+    <ido>
+      <ora>10:30</ora>
+        <tipus>2D</tipus>
+        <terem>Bud Spencer</terem>
+          <knap>2020.02.08.</knap>
+          <znap>2020.02.09.</znap>
+    </ido>
+    <ido>
+      <ora>10:00</ora>
+          <tipus>3D</tipus>
+          <terem>Terence Hill</terem>
+            <knap>2020.02.08.</knap>
+            <znap>2020.02.09.</znap>>
+        </ido>
+  </film>
+ <film>
+    <cim>Kisasszonyok</cim>
+    <hossz>135</hossz>
+    <korhatar>12</korhatar>
+    <premier>2020.01.30</premier>
+    <ido>
+      <ora>18:00</ora>
+      <tipus>2D</tipus>
+      <terem>Terence Hill</terem>
+      <knap>2020.01.30.</knap>
+      <znap>2020.02.05.</znap>
+    </ido>
+   <ido>
+     <ora>17:30</ora>
+        <tipus>2D</tipus>
+        <terem>Bud Spencer</terem>
+        <knap>2020.02.06.</knap>
+        <znap>2020.02.12.</znap>
+      </ido>
+  </film>
+ <film>
+    <cim>A feltaláló</cim>
+    <hossz>126</hossz>
+    <korhatar>12</korhatar>
+    <premier>2020.02.06</premier>
+    <ido>
+      <ora>19:30</ora>
+      <tipus>2D</tipus>
+      <terem>Bud Spencer</terem>
+      <knap>2020.02.06.</knap>
+      <znap>2020.02.12.</znap>
+    </ido>
+  </film>
+ <film>
+    <cim>Ragadozó madarak (és egy bizonyos Harley Quinn csodasztikus felszabadulása)</cim>
+    <hossz>109</hossz>
+    <korhatar>16</korhatar>
+    <premier>2020.02.06</premier>
+    <ido>
+      <ora>21:45</ora>
+      <tipus>3D</tipus>
+      <terem>Terence Hill</terem>
+      <knap>2020.02.06.</knap>
+      <znap>2020.02.12.</znap>
+    </ido>
+  </film>
+</mozi>

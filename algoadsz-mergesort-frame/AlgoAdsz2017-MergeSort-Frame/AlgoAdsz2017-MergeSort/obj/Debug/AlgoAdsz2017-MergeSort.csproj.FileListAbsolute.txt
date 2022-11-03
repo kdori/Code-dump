@@ -1,0 +1,32 @@
+c:\users\kevlar\documents\visual studio 2015\Projects\AlgoAdsz2017-MergeSort\AlgoAdsz2017-MergeSort\bin\Debug\AlgoAdsz2017-MergeSort.exe.config
+c:\users\kevlar\documents\visual studio 2015\Projects\AlgoAdsz2017-MergeSort\AlgoAdsz2017-MergeSort\obj\Debug\AlgoAdsz2017-MergeSort.csprojResolveAssemblyReference.cache
+c:\users\kevlar\documents\visual studio 2015\Projects\AlgoAdsz2017-MergeSort\AlgoAdsz2017-MergeSort\obj\Debug\AlgoAdsz2017_MergeSort.Properties.Resources.resources
+c:\users\kevlar\documents\visual studio 2015\Projects\AlgoAdsz2017-MergeSort\AlgoAdsz2017-MergeSort\obj\Debug\AlgoAdsz2017-MergeSort.csproj.GenerateResource.Cache
+c:\users\kevlar\documents\visual studio 2015\Projects\AlgoAdsz2017-MergeSort\AlgoAdsz2017-MergeSort\bin\Debug\AlgoAdsz2017-MergeSort.exe
+c:\users\kevlar\documents\visual studio 2015\Projects\AlgoAdsz2017-MergeSort\AlgoAdsz2017-MergeSort\bin\Debug\AlgoAdsz2017-MergeSort.pdb
+c:\users\kevlar\documents\visual studio 2015\Projects\AlgoAdsz2017-MergeSort\AlgoAdsz2017-MergeSort\obj\Debug\AlgoAdsz2017-MergeSort.exe
+c:\users\kevlar\documents\visual studio 2015\Projects\AlgoAdsz2017-MergeSort\AlgoAdsz2017-MergeSort\obj\Debug\AlgoAdsz2017-MergeSort.pdb
+d:\c\ttk\algoadsz-2017\AlgoAdsz2017-MergeSort-Frame\AlgoAdsz2017-MergeSort\bin\Debug\AlgoAdsz2017-MergeSort.exe.config
+d:\c\ttk\algoadsz-2017\AlgoAdsz2017-MergeSort-Frame\AlgoAdsz2017-MergeSort\bin\Debug\AlgoAdsz2017-MergeSort.exe
+d:\c\ttk\algoadsz-2017\AlgoAdsz2017-MergeSort-Frame\AlgoAdsz2017-MergeSort\bin\Debug\AlgoAdsz2017-MergeSort.pdb
+d:\c\ttk\algoadsz-2017\AlgoAdsz2017-MergeSort-Frame\AlgoAdsz2017-MergeSort\obj\Debug\AlgoAdsz2017-MergeSort.csprojResolveAssemblyReference.cache
+d:\c\ttk\algoadsz-2017\AlgoAdsz2017-MergeSort-Frame\AlgoAdsz2017-MergeSort\obj\Debug\AlgoAdsz2017_MergeSort.Properties.Resources.resources
+d:\c\ttk\algoadsz-2017\AlgoAdsz2017-MergeSort-Frame\AlgoAdsz2017-MergeSort\obj\Debug\AlgoAdsz2017-MergeSort.csproj.GenerateResource.Cache
+d:\c\ttk\algoadsz-2017\AlgoAdsz2017-MergeSort-Frame\AlgoAdsz2017-MergeSort\obj\Debug\AlgoAdsz2017-MergeSort.exe
+d:\c\ttk\algoadsz-2017\AlgoAdsz2017-MergeSort-Frame\AlgoAdsz2017-MergeSort\obj\Debug\AlgoAdsz2017-MergeSort.pdb
+d:\Documents\ttk\algo2018\app\AlgoAdsz2017-MergeSort-Frame\AlgoAdsz2017-MergeSort\bin\Debug\AlgoAdsz2017-MergeSort.exe.config
+d:\Documents\ttk\algo2018\app\AlgoAdsz2017-MergeSort-Frame\AlgoAdsz2017-MergeSort\obj\Debug\AlgoAdsz2017-MergeSort.exe
+d:\Documents\ttk\algo2018\app\AlgoAdsz2017-MergeSort-Frame\AlgoAdsz2017-MergeSort\obj\Debug\AlgoAdsz2017-MergeSort.pdb
+d:\Documents\ttk\algo2018\app\AlgoAdsz2017-MergeSort-Frame\AlgoAdsz2017-MergeSort\bin\Debug\AlgoAdsz2017-MergeSort.exe
+d:\Documents\ttk\algo2018\app\AlgoAdsz2017-MergeSort-Frame\AlgoAdsz2017-MergeSort\bin\Debug\AlgoAdsz2017-MergeSort.pdb
+d:\Documents\ttk\algo2018\app\AlgoAdsz2017-MergeSort-Frame\AlgoAdsz2017-MergeSort\obj\Debug\AlgoAdsz2017-MergeSort.csprojResolveAssemblyReference.cache
+d:\Documents\ttk\algo2018\app\AlgoAdsz2017-MergeSort-Frame\AlgoAdsz2017-MergeSort\obj\Debug\AlgoAdsz2017_MergeSort.Properties.Resources.resources
+d:\Documents\ttk\algo2018\app\AlgoAdsz2017-MergeSort-Frame\AlgoAdsz2017-MergeSort\obj\Debug\AlgoAdsz2017-MergeSort.csproj.GenerateResource.Cache
+C:\Users\kutas\Downloads\algoadsz-mergesort-frame\AlgoAdsz2017-MergeSort-Frame\AlgoAdsz2017-MergeSort\bin\Debug\AlgoAdsz2017-MergeSort.exe.config
+C:\Users\kutas\Downloads\algoadsz-mergesort-frame\AlgoAdsz2017-MergeSort-Frame\AlgoAdsz2017-MergeSort\bin\Debug\AlgoAdsz2017-MergeSort.exe
+C:\Users\kutas\Downloads\algoadsz-mergesort-frame\AlgoAdsz2017-MergeSort-Frame\AlgoAdsz2017-MergeSort\bin\Debug\AlgoAdsz2017-MergeSort.pdb
+C:\Users\kutas\Downloads\algoadsz-mergesort-frame\AlgoAdsz2017-MergeSort-Frame\AlgoAdsz2017-MergeSort\obj\Debug\AlgoAdsz2017-MergeSort.csprojAssemblyReference.cache
+C:\Users\kutas\Downloads\algoadsz-mergesort-frame\AlgoAdsz2017-MergeSort-Frame\AlgoAdsz2017-MergeSort\obj\Debug\AlgoAdsz2017_MergeSort.Properties.Resources.resources
+C:\Users\kutas\Downloads\algoadsz-mergesort-frame\AlgoAdsz2017-MergeSort-Frame\AlgoAdsz2017-MergeSort\obj\Debug\AlgoAdsz2017-MergeSort.csproj.GenerateResource.cache
+C:\Users\kutas\Downloads\algoadsz-mergesort-frame\AlgoAdsz2017-MergeSort-Frame\AlgoAdsz2017-MergeSort\obj\Debug\AlgoAdsz2017-MergeSort.exe
+C:\Users\kutas\Downloads\algoadsz-mergesort-frame\AlgoAdsz2017-MergeSort-Frame\AlgoAdsz2017-MergeSort\obj\Debug\AlgoAdsz2017-MergeSort.pdb
